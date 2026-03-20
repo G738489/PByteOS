@@ -225,8 +225,6 @@ void clear_screen2() {
     cursor_pos = 0;
     print_string("Copyright (C) PByteOS (TM). All rights reserved [2026]", 0x0F);
     newline();
-    print_string("This is a confidential build of PByteOS [1903.5]", 0x0F);
-    newline();
 
 }
 void newline() {
@@ -401,8 +399,6 @@ void kernel_main() {
 
     clear_screen();
     print_string("Copyright (C) PByteOS (TM). All rights reserved [2026]", 0x0F);
-    newline();
-    print_string("This is a confidential build of PByteOS [1903]", 0x0F);
     newline();
     print_string("PBYTE>> ", 0x0B);
 
