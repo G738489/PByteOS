@@ -1,4 +1,4 @@
-// PByteOS(TM) 0.1.2 Beta Preview
+// PByteOS(TM) 0.1.2 
 // Copyright (c) 2026 G738489.
 // Licensed under the MIT License.
 #include <stdint.h>
