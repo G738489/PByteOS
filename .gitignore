@@ -1,0 +1,11 @@
+*.bin
+*.iso
+*.o
+*.elf
+*.obj
+*.log
+*.img
+*.py
+*.vmdk
+*.tmp
+*.txt
