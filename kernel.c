@@ -378,7 +378,7 @@ void process_command() {
             newline();
         }
     } else if (str_compare(command_buffer, "version")) {
-        print_string("PByteOS 0.1.2 RC (Build 1903.4)", 0x0E);
+        print_string("PByteOS 0.1.2 (Build 1903.5)", 0x0E);
         newline();
         print_string("Copyright (c) 2026 G738489.", 0x07);
         newline(); 
