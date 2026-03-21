@@ -7,7 +7,6 @@ A custom x86 hobby OS. Simple, fast, and practical. From bootloader to kernel, i
 **32-bit (Protected Mode)**. It has full access to 4GB of RAM and uses a modern flat memory layout.
 
 ### How do I compile it?
-To build and run PByteOS, use the following commands in your terminal:
 Linux:
 ```
 nasm -f elf32 boot.asm -o boot.o
